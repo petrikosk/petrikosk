@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @petrikosk
+- 👀 I’m interested in embedded systems and automation
+- 🌱 I’m currently learning C++, C#, Kotlin
