@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @petrikosk
-- 👀 I’m interested in embedded systems and automation
-- 🌱 I’m currently learning C++, C#, Kotlin
+- 👀 I’m interested in embedded systems and automation, as well as Vue js and Django.
+- 🌱 I’m currently learning Rust
